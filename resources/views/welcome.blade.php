@@ -16,14 +16,15 @@
                 <img src="curio-02-wit-logo-rgb.png" alt="Mooi plaatje">
                 <nav>
                     <a href="">Home</a>
-                    <a href="">Rooster Info</a>
-                    <a href="">Smoelenboekje</a>
                     <a href="">Algemene info</a> 
+                    <a href="">Rooster Info</a>
+                    <a href="">Smoelenboekje</a>              
                 </nav>
             </div>
-        </div>
-        
-        
+        </div>       
     </header>
+    <main>
+        <img src="rooster.jpg" alt="Rooster van SSD1A">
+    </main>
 </body>
 </html>
