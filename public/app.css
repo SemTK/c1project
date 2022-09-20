@@ -1,7 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 header{
     background-color: black;
 }
 img{
     height: 60px;
     width: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+header .wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar{
+    padding: 1% 0;
+    margin-right: 50px;
 }
