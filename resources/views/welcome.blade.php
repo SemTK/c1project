@@ -40,7 +40,10 @@
             </div>
         </div>
         <div class="algemene-info">
-            <p>testestest</p>
+            <div class="algemeneinfotekst">
+                
+            </div>
+            <img src="" alt="">
         </div>
     </main>
 </body>
