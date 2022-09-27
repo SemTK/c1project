@@ -5,9 +5,23 @@ body{
 header{
     background-color: rgb(27, 38, 49);
 }
-img{
+header img{
     height: 60px;
     width: auto;
+    margin-left: 30px;
+}
+.rooster img{
+    height: 300px;
+    width: auto;
+    margin: 2%;
+}
+.rooster{
+    color: #F1F5F9;
+    display: inline-flex;
+    border-bottom: #F1F5F9 1px solid;
+}
+.rooster-info{
+    margin: 10px;
 }
 a{
     text-decoration: none;
@@ -29,4 +43,5 @@ header .wrapper{
 }
 main{
     background-color: rgb(27, 38, 49);
+    color: #F1F5F9;
 }
