@@ -19,6 +19,8 @@ header img{
     color: #F1F5F9;
     display: inline-flex;
     border-bottom: #F1F5F9 1px solid;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .rooster-info{
     margin: 10px;
@@ -45,3 +47,18 @@ main{
     background-color: rgb(27, 38, 49);
     color: #F1F5F9;
 }
+.algemene-info{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-bottom: #F1F5F9 1px solid;
+}
+.toelatingseisen{
+    margin-top: 75px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
