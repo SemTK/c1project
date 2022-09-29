@@ -40,10 +40,30 @@
             </div>
         </div>
         <div class="algemene-info">
-            <div class="algemeneinfotekst">
-                
+            <img src="info.jpg" alt="informatie van opleiding.">
+            <h3>Algemene informatie</h3>
+            <div class="algemeneinfo-tekst">
+                <p>
+                Op deze opleiding leer je verschillende programmeertalen toe te passen en te gebruiken in deze tekst krijg je uitleg over de programmeertalen die je gaat toepassen. De programmeertaal die je als eerst zal leren is Python, Python is een programmeertaal die gebruikt word voor scripts. Je maakt dus enkel applicaties voor in de console, zoals een rekenmachine, of een datafilter voor een groot bestand vol met informatie. Ook leer je console apps te maken met een functioneel menu.<br><br>
+                Terwijl je Python leert leer je bij WEB ook de talen HTML, CSS en PHP. HTML is eigenlijk geen programmeertaal maar een Mark-up taal. Deze gebruik je om de zichtbare elementen toe te voegen aan een website. Zoals knoppen, foto’s of teksten. En met CSS zorg je ervoor dat al die dingen er netjes uit zien. Dus dat alles er netjes en mooi uitziet.<br><br>
+                PHP is een taal die voor allerlei dingen zorgt, zoals de verbinding met databases, en het onthouden van gegevens en het geven van gegevens, het zorgt er dus ook voor dat je op een website kunt inloggen en kunt registreren. Deze taal zie je nooit op de voorgrond van een website maar het is altijd het gene wat je niet ziet.<br><br>
+                Vanaf je 2de jaar, begin je de talen C# en SQL. C# is de taal waar je in je opleiding verder in gaat, dit is een uitgebreide versie van Python die ook de mogelijkheid biedt om visuele applicaties te maken, dit zijn dus de welbekende .exe bestanden die je wel eens ziet. Je maakt console applicaties en gaat kort daarna aan de gang met visuele applicaties die allerlei dingen doen.<br><br>
+                SQL is de taal van databases, een database is wat bijvoorbeeld jou inloggegevens onthoudt wanneer je op een website een account aanmaakt en wanneer je probeert in te loggen ook de gegevens vergelijkt met wat jij hebt ingetypt bij het inloggen. Deze taal zorgt ervoor dat de gegevens die in de website worden ingevoerd ook echt worden opgeslagen.
+                </p>
             </div>
-            <img src="" alt="">
+            <div class="toelatingseisen">
+                <img src="toelating.png" alt="plaatje met toelating erop.">
+                <h3>toelatingseisen</h3>
+                <div class="toelatingseisen-tekst">
+                    <p>
+                        Je hebt een vmbo-diploma kaderberoepsgerichte, gemengde of theoretische leerweg (voorheen lbo, vbo of mavo diploma), of
+                        Je hebt een diploma basisberoepsopleiding (mbo niveau 2) , of
+                        Je hebt een bewijs dat je de eerste 3 leerjaren van de havo of het vwo goed hebt doorlopen.<br><br>
+
+                        Voor een BBL-opleiding heb je  een baan nodig bij een erkend bedrijf. Je werkt daar minimaal 20 tot 24 uur per week en je bent zelf verantwoordelijk om een leerbedrijf te vinden. Uiterlijk op 31 december van het jaar dat je gestart bent met je opleiding, moet je een leerbedrijf gevonden hebben. Als je denkt dat dit niet lukt, kun je jezelf ook inschrijven voor een bol-opleiding.
+                    </p>
+                </div>
+            </div>
         </div>
     </main>
 </body>
